@@ -1,4 +1,4 @@
-# UCSB-IZC00036803
+# Halictus ligatus Halictidae UCSB-IZC00036803 https://library.big-bee.net/portal/collections/individual/index.php?occid=72096 Male - Bee Library - 73e389aa-5886-4c48-8778-ba8932d1bd7e
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7510912.svg)](https://doi.org/10.5281/zenodo.7510912) [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Big-Bee-Network/UCSB-IZC00036803/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Big-Bee-Network/UCSB-IZC00036803) 
 
 
